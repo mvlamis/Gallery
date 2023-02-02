@@ -14,4 +14,6 @@ struct GalleryApp: App {
             ContentView()
         }
     }
+
+    
 }
